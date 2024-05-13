@@ -36,9 +36,9 @@ function Projects() {
                     <a href="https://rakesh-2601.github.io/SpiceSymph_Restaurant/" className='proj1'><h5>Spice Symph Restaurant</h5></a>
                 </Col>
                 <Col>
-                    <a href="https://rakesh-2601.github.io/My-portfolio/"><img src={projImg2} alt="Broken Image" width={'320px'} height={'200px'}/></a>
+                    <a href="https://rakesh-2601.github.io/Portfolio/"><img src={projImg2} alt="Broken Image" width={'320px'} height={'200px'}/></a>
                     <br /><br />
-                    <a href="https://rakesh-2601.github.io/My-portfolio/" className='proj2'><h5 >Portfolio</h5></a>
+                    <a href="https://rakesh-2601.github.io/Portfolio/" className='proj2'><h5 >Portfolio</h5></a>
                 </Col>
                 <Col>
                     <a href="https://rakesh-2601.github.io/IT_Services_Project/"><img src={projImg3} alt="Broken Image" width={'320px'} height={'200px'}/></a>
